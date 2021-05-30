@@ -23,7 +23,3 @@
 
 **Landing page adv**
 ![Landing page adv](./examples/landing-page.jpg)
-
-
-**Landing page example**
-![Landing page example](./examples/business.jpg)
